@@ -1,0 +1,10 @@
+/* list of costumers page index*/
+.photo-pelanggan {
+    width: 60px;
+    height: 40px;
+}
+
+/* list of costumers page table */
+.table > tbody > tr > * {
+    vertical-align: middle;
+}
